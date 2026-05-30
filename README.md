@@ -1,3 +1,7 @@
 <img src="header.png">
 
-to lazy to make commits
+<br>
+
+still deciding what to build
+
+<p style="color: blue;">follow me on <a style="color: blue;" href="https://x.com/pzvmu">twitter</a></p>
